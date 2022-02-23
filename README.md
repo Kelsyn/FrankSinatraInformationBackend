@@ -22,10 +22,5 @@ Get on /public will print "Everybody can see this page"
 
 Get on /protected is protected by a HTTP basic authentication and print "Welcome, authenticated client". The login is admin and the password is admin, otherwise it will provide a 401 not authorized. 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
