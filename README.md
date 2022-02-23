@@ -6,7 +6,9 @@ A backend app using express to display simple information about Frank Sinatra.
 
 ``` node FrankSinatraInformationBackend.js```
 
-```curl http://localhost:8080/``` Gives a random Frank Sinatra song of amongst a pool of 20.
+```curl http://localhost:8080/``` 
+
+GET on / will give a random Frank Sinatra song of amongst a pool of 20.
 
 GET on /birth_date will give Frank Sinatra's birthday.
 
